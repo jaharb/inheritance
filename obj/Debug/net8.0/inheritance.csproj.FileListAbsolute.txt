@@ -1,0 +1,14 @@
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\bin\Debug\net8.0\inheritance.exe
+C:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\bin\Debug\net8.0\inheritance.deps.json
+C:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\bin\Debug\net8.0\inheritance.runtimeconfig.json
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\bin\Debug\net8.0\inheritance.dll
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\bin\Debug\net8.0\inheritance.pdb
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfoInputs.cache
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\inheritance.AssemblyInfo.cs
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\inheritance.csproj.CoreCompileInputs.cache
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\inheritance.dll
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\refint\inheritance.dll
+c:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\inheritance.pdb
+C:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\inheritance.genruntimeconfig.cache
+C:\Users\RK03-B1225-\Documents\Fall24Capstone\inheritance\obj\Debug\net8.0\ref\inheritance.dll
